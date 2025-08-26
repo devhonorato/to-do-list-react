@@ -1,0 +1,21 @@
+
+// Start projeto usando Vite + React 
+npm create vite@5.5.2 .
+
+// Instalando e configurando o Tailwindcss
+// https://v3.tailwindcss.com/docs/installation
+npm install -D tailwindcss@3.4.10 postcss@8.4.41 autoprefixer@10.4.20 
+
+npx tailwindcss init -p
+
+// Alterando o content de tailwind.config.js
+content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+
+// Icons 
+npm install lucide-react@0.435.0
+
+// Gerar ID's
+npm install uuid@10.0.0
+
+//Rotas
+npm install react-router-dom@6.26.1
