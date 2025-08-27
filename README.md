@@ -26,7 +26,7 @@ A aplicação oferece funcionalidades completas de CRUD (Create, Read, Update, D
 
 1. **Clone o repositório**:
 ```bash
-git clone [https://github.com/devhonorato/to-do-list-react.git](https://github.com/devhonorato/to-do-list-react.git)
+git clone https://github.com/devhonorato/to-do-list-react.git
 cd to-do-list-react
 ```
 
