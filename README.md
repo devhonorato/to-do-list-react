@@ -1,9 +1,10 @@
 
-# Documentação do Projeto To-Do List React
+# Projeto To-Do List React
 
 ## 📋 Descrição
 
 Este projeto é uma aplicação moderna de gerenciamento de tarefas (to-do list) construída com **React + Vite + Tailwind CSS**. 
+
 A aplicação oferece funcionalidades completas de CRUD (Create, Read, Update, Delete) para tarefas, com persistência local via localStorage e uma interface responsiva e intuitiva.
 
 ## 🚀 Tecnologias Utilizadas
@@ -54,7 +55,7 @@ Abra [http://localhost:5173](http://localhost:5173) no navegador
 
 ```
 src/
-├── components/          # Componentes reutilizáveis
+├── components/         # Componentes reutilizáveis
 │   ├── AddTask.jsx     # Formulário de adição de tarefas
 │   ├── Button.jsx      # Componente de botão
 │   ├── Input.jsx       # Componente de input
